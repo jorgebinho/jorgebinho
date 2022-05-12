@@ -1,6 +1,8 @@
 ### Greetings, 👋
 
-Greetings, My name is Jorge Almeida, I am 21 years old and study Science of Computing at Uri Santo Angelo, I am passionate about technology and the way it transforms the world, passionate mainly about web and mobile development, having knowledge in languages such as: JavaScript through react library and vue framework, also having knowledge in mobile technologies such as react native library and swift language
+Greetings, My name is Jorge Almeida, I am 21 years old and study Science of Computing at Uri Santo Angelo, I am passionate about technology and the way it transforms the world, passionate mainly about web and mobile development, having knowledge in languages such as: JavaScript through react library and vue framework, also having knowledge in mobile technologies such as react native library and swift language.
+
+I am available for contact through the e-mail: jorgebrunoalmeidadossantos@gmail.com
 
 
 <!--
